@@ -1,6 +1,6 @@
 ###
 
-<h2 align="left">Do not Talk About Your</h2>
+<h2 align="left">Don't come around talking about your</h2>
 
 ###
 
@@ -33,7 +33,7 @@
 <br clear="both">
 
 
-<h2 align="left">You Should</h2>
+<h2 align="left">You should</h2>
 
 ###
 <div align="left">

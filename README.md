@@ -16,18 +16,11 @@ Software architect focused on enterprise systems, internal tools, APIs, data-hea
 
 ## What I care about
 
-- clear structure
-- durable abstractions
-- maintainable systems
-- restrained UI
-- software that survives real use
+Clear structure · Durable abstractions · Maintainable systems · Restrained UI · Software that survives real use
 
 ## Find me
 
-- Website: [ismetguzelgun.com](https://ismetguzelgun.com)
-- GitHub: [github.com/ismetguzelgun](https://github.com/ismetguzelgun)
-- LinkedIn: [linkedin.com/in/ismetguzelgun](https://tr.linkedin.com/in/ismetguzelgun)
-- Stack Overflow: [stackoverflow.com/users/4701389/ismetguzelgun](https://stackoverflow.com/users/4701389/ismetguzelgun)
+[Website](https://ismetguzelgun.com) · [X](https://x.com/ismetguzelgun) · [Stack Overflow](https://stackoverflow.com/users/4701389/ismetguzelgun)
 
 ---
 > Quiet systems. Sharp interfaces. No nonsense.

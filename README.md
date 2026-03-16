@@ -1,43 +1,33 @@
-###
+# İsmet Güzelgün
 
-<h2 align="left">Don't come around talking about your</h2>
+Software architect focused on enterprise systems, internal tools, APIs, data-heavy workflows, and product-minded development.
 
-###
+## What I work on
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="sql logo" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  
-  
-</div>
+- Backend and application architecture
+- Angular and .NET systems
+- SQL-heavy business workflows and data pipelines
+- Developer tooling and internal platforms
+- iOS and product experiments on the side
 
+## Stack
 
+`.NET` `C#` `Angular` `TypeScript` `JavaScript` `SQL` `Python` `Swift`
 
-<br clear="both">
+## What I care about
 
+- clear structure
+- durable abstractions
+- maintainable systems
+- restrained UI
+- software that survives real use
 
-<h2 align="left">You should</h2>
+## Find me
 
-###
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismetguzelgun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+- Website: [ismetguzelgun.com](https://ismetguzelgun.com)
+- GitHub: [github.com/ismetguzelgun](https://github.com/ismetguzelgun)
+- LinkedIn: [linkedin.com/in/ismetguzelgun](https://tr.linkedin.com/in/ismetguzelgun)
+- Stack Overflow: [stackoverflow.com/users/4701389/ismetguzelgun](https://stackoverflow.com/users/4701389/ismetguzelgun)
 
-###
+---
+> Quiet systems. Sharp interfaces. No nonsense.
